@@ -1,0 +1,1 @@
+CargaSwifts2.exe -L\\srv-security-91\entrantes$\Logs -D\\srv-security-91\entrantes$\done -I\\srv-security-91\entrantes$ -C"Initial Catalog=cambio;Data Source=DESA-MESA;User ID=user_stc;Password=stc;"

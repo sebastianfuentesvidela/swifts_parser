@@ -1,0 +1,18 @@
+[Params]
+ ConnectString=Initial Catalog=bnktrade;Data Source=(local);User ID=sa;Password=;
+ LogDir=C:\Sfv\__Swifts\MTSSS\Logs
+ VerboseMode=1
+ InputDir=C:\Sfv\__Swifts\MTSSS
+ OutputDir=C:\Sfv\__Swifts\MTSSS\done
+ SmtpServer=smtp.security.cl
+ MaildeEnvio=sefuentes@security.cl
+ MailsDestino=sefuentes@security.cl
+[OLDParams]
+ ConnectString=Initial Catalog=bnktrade;Data Source=SRV-SECURITY113;User ID=bank;Password=trade;
+ LogDir=\\srv-security-91\salientes$\Logs 
+ VerboseMode=0
+ InputDir=\\srv-security-91\salientes$ 
+ OutputDir=\\srv-security-91\salientes$\done
+ SmtpServer=smtp.security.cl
+ MaildeEnvio=pmorello@security.cl
+ MailsDestino=rdelafuente@security.cl;mramirez@security.cl;pmorello@security.cl
